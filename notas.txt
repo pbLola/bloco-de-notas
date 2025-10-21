@@ -32,3 +32,9 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 ⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
 
 ---
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+---
